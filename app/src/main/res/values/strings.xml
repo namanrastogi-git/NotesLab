@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">NotesLab</string>
+    <string name="title_main">My Notes</string>
+    <string name="menu_add">Add Note</string>
+    <string name="menu_delete">Delete Note</string>
+
+    <string name="hint_note_name">Note name</string>
+    <string name="hint_note_content">Note content</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete">Delete Selected</string>
+
+    <string name="toast_empty_name">Please enter a note name.</string>
+    <string name="toast_empty_content">Please enter note content.</string>
+    <string name="toast_exists">A note with this name already exists.</string>
+    <string name="toast_saved">Note saved.</string>
+    <string name="toast_no_selection">Please select a note to delete.</string>
+    <string name="toast_deleted">Note deleted.</string>
+    <string name="toast_no_notes">No notes yet.</string>
 </resources>
